@@ -43,7 +43,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Registration Page
 
-<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Registration Page" width="600">
+![Home Page](https://drive.google.com/uc?id=182u5dQPQmRl-JfQSO2LBw9wDubSIbIHf "Home Page")
+
 
 
 ### Home Page
