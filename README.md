@@ -37,15 +37,18 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Screenshots
 
 ### Login Page
+<img src="https://drive.google.com/uc?id=1Urx818p-QMqkhoHkf8FpcHPsRb7Ce_5F" alt="Login Page" width="600">
 
-<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Login Page" width="600">
+
 
 ### Registration Page
 
-<img src="https://drive.google.com/uc?id=1Urx818p-QMqkhoHkf8FpcHPsRb7Ce_5F" alt="Registration Page" width="600">
+<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Registration Page" width="600">
+
 
 ### Home Page
 
-<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Home Page" width="600">
+
+<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Home page" width="600">
 
 
