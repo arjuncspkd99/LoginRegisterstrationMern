@@ -46,6 +46,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Home Page
 
-<img src="https://drive.google.com/uc?id=182u5dQPQmRl-JfQSO2LBw9wDubSIbIHf" alt="Home Page" width="600">
+<img src="https://drive.google.com/uc?id=1kS0LC7SmY3tCL31dndwh96CyTkHo2ji3" alt="Home Page" width="600">
 
 
