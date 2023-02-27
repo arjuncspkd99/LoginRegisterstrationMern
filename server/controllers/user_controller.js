@@ -2,7 +2,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const User = require('../models/user');
 
-const secret = 'nTHDrGp7yz7PRYyULqGN5HS1Q9DnUZv6'; // change this to your own secret key
+const secret = 'nTHDrGp7yz7PRYyULqGN5HS1Q9DnUZv6'; 
 const tokenExpiration = '2h'; // set the token expiration time
 
 const userController = {
